@@ -1,4 +1,4 @@
-p {
+.odd {
   background-color: hsl(360, 100%, 75%);
   font-family: 'DejaVu Sans', Verdana, sans-serif;
 }
@@ -8,12 +8,11 @@ p {
   font-size: 36px;
 }
 
-.Number-3 {
+.adjust-font-size {
   font-size: 24px;
 }
 
 #Number-4 {
   background-color: hsl(120, 100%, 75%);
-  font-size: 24px;
   font-weight: 700;
 }
